@@ -1,0 +1,12 @@
+com.discordapp.Discord
+com.github.IsmaelMartinez.teams_for_linux
+com.google.Chrome
+com.mattjakeman.ExtensionManager
+com.slack.Slack
+com.spotify.Client
+io.mrarm.mcpelauncher
+md.obsidian.Obsidian
+org.kde.okular
+org.localsend.localsend_app
+org.remmina.Remmina
+us.zoom.Zoom

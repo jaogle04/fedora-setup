@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+
+dnf repoquery --userinstalled --qf '%{name}\n' | sort -u \
+  > "$repo_dir/packages.txt"
+flatpak list --app --columns=application | sort -u \
+  > "$repo_dir/flatpaks.txt"
+cargo install --list | awk '/^[^[:space:]]/ { print $1 }' | sort -u \
+  > "$repo_dir/cargo-packages.txt"

@@ -1,0 +1,7 @@
+bluetui
+rmpc
+spotatui
+spotify_player
+texlab
+wiremix
+wlctl
