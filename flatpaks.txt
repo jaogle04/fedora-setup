@@ -6,6 +6,7 @@ com.slack.Slack
 com.spotify.Client
 io.mrarm.mcpelauncher
 md.obsidian.Obsidian
+org.freecad.FreeCAD
 org.kde.okular
 org.localsend.localsend_app
 org.remmina.Remmina

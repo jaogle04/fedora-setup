@@ -3,5 +3,6 @@ rmpc
 spotatui
 spotify_player
 texlab
+tree-sitter-cli
 wiremix
 wlctl
