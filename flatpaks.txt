@@ -1,13 +1,16 @@
 com.discordapp.Discord
 com.github.IsmaelMartinez.teams_for_linux
 com.google.Chrome
+com.jgraph.drawio.desktop
 com.mattjakeman.ExtensionManager
 com.slack.Slack
 com.spotify.Client
 io.mrarm.mcpelauncher
+io.podman_desktop.PodmanDesktop
 md.obsidian.Obsidian
 org.freecad.FreeCAD
 org.kde.okular
 org.localsend.localsend_app
 org.remmina.Remmina
+org.zotero.Zotero
 us.zoom.Zoom

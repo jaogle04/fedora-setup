@@ -109,9 +109,12 @@ dkms
 dnf5
 dnf5-plugins
 dnsmasq
+docker-compose
+dolphin-emu
 dos2unix
 dosfstools
 dotnet-runtime-8.0
+dpkg
 dracut-config-rescue
 dracut-live
 dracut-network
@@ -316,14 +319,17 @@ kernel-modules-extra
 kexec-tools
 keyutils-libs
 kitty
-kmod-nvidia-7.1.7-100.fc43.x86_64
-kmod-nvidia-7.1.8-100.fc43.x86_64
+kmod-nvidia-7.1.12-100.fc43.x86_64
+kmod-nvidia-7.1.13-100.fc43.x86_64
+kmod-nvidia-7.1.9-100.fc43.x86_64
 krb5-libs
+kubernetes1.35-client
 lame-libs
 latexmk
 lazygit
 lcms2
 less
+libasan
 libasyncns
 libatomic
 libblkid
@@ -379,6 +385,7 @@ libpng
 libproxy
 libpsl
 libreoffice-calc
+libreoffice-draw
 libreoffice-emailmerge
 libreoffice-graphicfilter
 libreoffice-impress
@@ -412,6 +419,7 @@ libuuid
 libva
 libva-intel-driver
 libva-intel-media-driver
+libva-utils
 libvdpau
 libverto
 libvorbis
@@ -583,6 +591,7 @@ plocate
 plymouth
 plymouth-system-theme
 podman
+podman-docker
 policycoreutils
 policycoreutils-python-utils
 polkit
@@ -608,6 +617,7 @@ python3-pyaudio
 python3-pycodestyle
 python3-rapidfuzz
 python3-sniffio
+python3-sphinx
 python3-tkinter
 qadwaitadecorations-qt5
 qcom-wwan-firmware
@@ -682,6 +692,7 @@ sudo
 supergfxctl
 sushi
 SwayNotificationCenter
+swift-lang
 swig
 symlinks
 system-config-printer-udev
@@ -699,6 +710,8 @@ tesseract-langpack-eng
 tesseract-tessdata-doc
 texlive-collection-fontsextra
 texlive-collection-latexextra
+texlive-texcount
+texlive-texdoc
 thermald
 time
 timeshift
@@ -721,6 +734,7 @@ usermode
 utf8proc
 util-linux
 valgrind
+vcpkg
 vim-common
 vim-enhanced
 vim-minimal
